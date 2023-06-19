@@ -8,4 +8,4 @@ access to context api
  
   To Do:
 curses interface.
-remove weak linkage of os filedescriptors in deprecated api(always a problem)
+remove weak linkage(switch to libcore) of os filedescriptors in deprecated api(always a problem)
