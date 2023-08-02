@@ -3,16 +3,13 @@
 3154:class MyFragment
 4203:class MyFragment
 6025:class ActionTabActivity
-6749:class TabListener<T
+6749:class TabListener
 8206:class AndroidCharacterCompat
 8609:class Api8OrLater
-9102:class until
-9170:class is
 9669:class AndroidCompat
 10240:class AndroidLevel4PlusCompat
 11248:class BaseTextRenderer
 22110:class ByteQueue
-25134:class describing
 26337:class ColorScheme
 27575:class GrowableIntArray
 28256:class KeyCharacterMapCompat
@@ -20,7 +17,6 @@
 29690:class KeycodeConstants
 56778:class LaunchActivity
 64310:class bshThread
-66260:class was
 66424:class R
 66458:class attr
 66501:class id
@@ -30,8 +26,6 @@
 68322:class RunFGsvc
 69448:class RBinder
 74812:class StartRootActivity
-78376:class for
-78527:class for
 78964:class StyleRow
 82704:class TermActivity
 92988:class bshThread
